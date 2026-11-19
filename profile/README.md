@@ -52,7 +52,7 @@ flowchart LR
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/Rinneway"><img src="https://github.com/Rinneway.png?size=120" width="80" alt=""><br><b>Danil Tyustin</b></a><br>
+      <a href="https://github.com/Rinneway"><img src="https://github.com/Rinneway.png?size=120" width="80" alt=""><br><b>Daniel Tyustin</b></a><br>
       <sub>Backend & logic</sub>
     </td>
     <td align="center" width="25%">
